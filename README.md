@@ -5,7 +5,9 @@ Notes:
 - 
 
 Useful links:
-General links for the board:
+[MOISE organisation manager](https://github.com/moise-lang/moise?tab=readme-ov-file)
+
+General links for the FireBeetle ESP32 Board:
 
 - [Firebeetle Board Docs](https://raw.githubusercontent.com/Robert-MARKII/Document/master/FireBeetle%20Board-ESP32%20User%20Manual%20update.pdf)
 - [Firebeetle Board Site](https://wiki.dfrobot.com/FireBeetle_Board_ESP32_E_SKU_DFR0654#target_0)
