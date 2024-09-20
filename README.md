@@ -1,3 +1,9 @@
+Notes:
+- Need to add a Organisation Manager to Yggdrasil: MOISE library or AGR model
+- Sensing Agent interacts with two main endpoints: Where to put Data and Org Manager
+- Org Manager can be running seperately or running in Yggdrasil
+- 
+
 Useful links:
 General links for the board:
 
