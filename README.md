@@ -5,7 +5,7 @@ Notes:
 - 
 
 Useful links:
-[MOISE organisation manager](https://github.com/moise-lang/moise?tab=readme-ov-file)
+- [MOISE organisation manager](https://github.com/moise-lang/moise?tab=readme-ov-file)
 
 General links for the FireBeetle ESP32 Board:
 
