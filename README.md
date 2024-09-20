@@ -13,5 +13,6 @@ Links for BLE:
 
 Links for Thread CoAP:
 
-[OpenThread coAP API references](https://openthread.io/reference/group/api-coap)
-[NordicSemi coAP NRF](https://docs.nordicsemi.com/bundle/ncs-latest/page/nrf/samples/openthread/coap_server/README.html)
+- [OpenThread coAP API references](https://openthread.io/reference/group/api-coap)
+
+- [NordicSemi coAP NRF](https://docs.nordicsemi.com/bundle/ncs-latest/page/nrf/samples/openthread/coap_server/README.html)
